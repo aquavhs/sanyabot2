@@ -116,7 +116,7 @@ class PaymentHandler:
                     inline_keyboard=[
                         [InlineKeyboardButton(
                             text="📢 Присоединиться к каналу",
-                            url="https://t.me/+9dOYr5Z3XMk3YjQy"
+                            url="https://t.me/+4_Qb6pPctkRkNGMy"
                         )]
                     ]
                 ),
